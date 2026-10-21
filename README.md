@@ -1,2 +1,2 @@
 # pocketvjpro.customtools.app
-Redirects pocketvjpro.customtools.app to https://apps.customtools.app/pocket-vj/ (path preserved). Built by CustomTools.App.
+Site for pocketvjpro.customtools.app. Built by CustomTools.App.
